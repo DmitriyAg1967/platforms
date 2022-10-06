@@ -1,0 +1,23 @@
+{
+  "name": "platforms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DmitriyAg1967/platforms.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DmitriyAg1967/platforms/issues"
+  },
+  "homepage": "https://github.com/DmitriyAg1967/platforms#readme",
+  "dependencies": {
+    "@dmitriyag1967/ajs": "^1.0.0"
+  }
+}
